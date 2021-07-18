@@ -5,7 +5,7 @@ different types of tokens.
 CPN Tools is a tool for editing, simulating, and analyzing Colored Petri nets
 By adding these 2 files, a programmer can make a .cpn file that can be analysed by CPN Tools.
 <br>
-API functions:
+<h3>API functions:</h3>
 <ul>
           <li>public void addPlace(String s) : adding place with the id of s</li>
           <li>public void addTrans(String s) : adding transition with the id of s</li>
