@@ -1,8 +1,10 @@
 # AutoCPN
 A java class for building Colored Petri Nets
+<br>
 Colored Petri nets are extended definitions of ordinary Petri nets that allow places have
 different types of tokens.
-CPN Tools is a tool for editing, simulating, and analyzing Colored Petri nets
+<br>
+<a href="https://cpntools.org/">CPN Tools </a> is a tool for editing, simulating, and analyzing Colored Petri nets
 By adding these 2 files, a programmer can make a .cpn file that can be analysed by CPN Tools.
 <br>
 <h3>API functions:</h3>
